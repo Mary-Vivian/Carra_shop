@@ -1,0 +1,80 @@
+#video{
+    display:grid;
+    grid-template-columns: 5%10%;
+    display: flex;
+
+} 
+#startbutton{
+    display: flex;
+    gap: 15px;
+}
+#photos{
+    display: flex;
+    margin: right 10%;
+    gap: 8%;
+    padding-bottom: 15%;
+    
+}
+#where{
+    display: grid;
+    grid-template-columns: max-content;
+}
+#ikea{
+    display:flex;
+    gap:10%;
+    padding-bottom: 15%;
+}
+#vases{
+    display: flex;
+    gap: 40px;
+    padding-bottom: 20px;
+}
+#spc{
+    text-align: center;
+    padding-bottom: 40px;
+}
+.trendy{
+    display: grid;
+    grid-template-columns:30%30%;
+    padding-bottom: 60px;
+    text-align: center;
+}
+.styl{
+    display: grid;
+    grid-template-columns: 50%50%;
+}
+button{
+    border-radius:30px ;
+    padding: 10px;
+}
+#what{
+    text-align: center;
+}
+#icons{
+    display: grid;
+    grid-template-columns: 50%50%;
+    display: flex;
+    gap: 10%;
+    padding-bottom: 30px;
+
+}
+#review{
+    padding-bottom: 20px;
+    text-align: center;
+}
+#arthur{
+    display: grid;
+    grid-template-columns: 45%45%;
+    /* gap: 2px; */
+    padding-bottom: 10%;
+    padding-left: 20%;
+}
+#footer{
+    display: grid;
+    grid-template-columns: 50%50%;
+    display: flex;
+    gap: 10%;
+}
+#flower{
+    padding-left: 0%; 
+}
